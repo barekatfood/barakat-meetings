@@ -1,1 +1,27 @@
-
+{
+    "translation": {
+        "sessions": "Sessions",
+        "new_session": "New Session",
+        "contacts": "Contacts",
+        "archive": "Archive",
+        "dashboard": "Dashboard",
+        "settings": "Settings",
+        "logout": "Logout",
+        "session_form": "Session Registration Form",
+        "session_info": "Session Information",
+        "attendees": "Attendees",
+        "decisions": "Decisions",
+        "notes": "Notes",
+        "save": "Save",
+        "pdf": "PDF",
+        "excel": "Excel",
+        "whatsapp": "WhatsApp",
+        "add_to_calendar": "Add to Calendar",
+        "share_session": "Share Session",
+        "import_contacts": "Import Contacts",
+        "required_field": "Please fill in all required fields.",
+        "invalid_mobile": "Mobile number must be 11 digits.",
+        "end_time_invalid": "End time must be after start time.",
+        "cancel": "Cancel"
+    }
+}
