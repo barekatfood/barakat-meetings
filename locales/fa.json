@@ -1,1 +1,27 @@
-
+{
+    "translation": {
+        "sessions": "صورتجلسات",
+        "new_session": "جلسه جدید",
+        "contacts": "مخاطبین",
+        "archive": "آرشیو",
+        "dashboard": "داشبورد",
+        "settings": "تنظیمات",
+        "logout": "خروج",
+        "session_form": "فرم ثبت صورتجلسه",
+        "session_info": "اطلاعات جلسه",
+        "attendees": "شرکت‌کنندگان",
+        "decisions": "مصوبات",
+        "notes": "یادداشت‌ها",
+        "save": "ذخیره",
+        "pdf": "PDF",
+        "excel": "Excel",
+        "whatsapp": "واتساپ",
+        "add_to_calendar": "افزودن به تقویم",
+        "share_session": "اشتراک‌گذاری جلسه",
+        "import_contacts": "وارد کردن مخاطبین",
+        "required_field": "فیلدهای ضروری را پر کنید.",
+        "invalid_mobile": "موبایل باید ۱۱ رقم باشد.",
+        "end_time_invalid": "ساعت پایان باید بعد از ساعت شروع باشد.",
+        "cancel": "لغو"
+    }
+}
